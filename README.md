@@ -28,7 +28,7 @@ Ich bin der Entwickler im Hintergrund für **Agenturen und Designer**. Ihr behal
 **WordPress (FSE / Block-Themes)**
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![DDEV](https://img.shields.io/badge/DDEV-02A8E2?style=flat-square&logo=ddev&logoColor=white)
+![DDEV](https://img.shields.io/badge/DDEV-02A8E2?style=flat-square)
 
 **Frontend**
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
@@ -50,22 +50,9 @@ Ich bin der Entwickler im Hintergrund für **Agenturen und Designer**. Ihr behal
 
 ---
 
-## 🚀 Woran ich gerade arbeite
-
-- 🤖 **Website-Generator** auf KI-Basis, der individuelle Seiten aus einem Briefing erstellt
-- 📊 **Lead-Management CRM** in Next.js, mit Karten-Visualisierung und automatisiertem Crawling
-- 🎙️ **Voice Assistant (Jarvis)** komplett self-hosted: LiveKit, Whisper, Piper TTS
-
----
-
 <div align="center">
 
 **Engpass im Dev-Team oder ein Design das umgesetzt werden will?**
 [robinherbeck.com](https://robinherbeck.com)
-
-<br>
-
-<img src="https://github-readme-stats.vercel.app/api?username=herbeckrobin&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbeckrobin&layout=compact&theme=dark&hide_border=true" height="150"/>
 
 </div>
