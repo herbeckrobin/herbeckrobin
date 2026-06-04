@@ -2,9 +2,8 @@
 
 # Hey, ich bin Robin 👋
 
-**Webentwickler & Mediengestalter aus Heilbronn**  
-Ich baue individuelle Web-Lösungen – von der API bis zum fertigen Produkt.  
-Spezialisiert auf **White-Label-Entwicklung** für Agenturen.
+**White-Label-Webentwickler aus Heilbronn**
+Du designst und kommunizierst, ich baue die Technik. Sauber, pixelgenau und diskret im Hintergrund.
 
 [![Website](https://img.shields.io/badge/robinherbeck.com-000000?style=for-the-badge&logo=safari&logoColor=white)](https://robinherbeck.com)
 [![Email](https://img.shields.io/badge/info@robinherbeck.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:info@robinherbeck.com)
@@ -14,53 +13,59 @@ Spezialisiert auf **White-Label-Entwicklung** für Agenturen.
 
 ---
 
-## 🛠️ Tech Stack
+## 💼 Für wen ich arbeite
 
-**Frontend**  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3/SCSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+Ich bin der Entwickler im Hintergrund für **Agenturen und Designer**. Ihr behaltet die Kundenbeziehung und das Branding, ich setze eure Designs technisch um. Festpreis pro Projekt, kein Tech-Kauderwelsch, keine Spuren von mir gegenüber eurem Kunden.
 
-**Backend**  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+- **Pixelgenaue Umsetzung:** Euer Design wird 1:1 zur Website, nicht "ungefähr so"
+- **Editor-Souveränität:** Euer Endkunde pflegt alle Inhalte selbst, sauberer Handover statt Abhängigkeit
+- **DSGVO und Self-Hosting:** EU-Hosting, keine Google-Fonts-CDNs, keine versteckten Drittdienste
+
+---
+
+## 🛠️ Womit ich baue
+
+**WordPress (FSE / Block-Themes)**
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![DDEV](https://img.shields.io/badge/DDEV-02A8E2?style=flat-square&logo=ddev&logoColor=white)
+
+**Frontend**
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![GSAP](https://img.shields.io/badge/GSAP-88CE02?style=flat-square&logo=greensock&logoColor=black)
+
+**Backend & Daten**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST_APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
-**Tools & Infra**  
+**Infra & Self-Hosting**
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Coolify](https://img.shields.io/badge/Coolify-8B5CF6?style=flat-square&logo=coolify&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Gitea](https://img.shields.io/badge/Gitea-609926?style=flat-square&logo=gitea&logoColor=white)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-
-**AI Integration**  
-![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=flat-square&logo=anthropic&logoColor=white)
-![OpenAI](https://img.shields.io/badge/OpenAI_API-412991?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-## 🚀 Was ich gerade baue
+## 🚀 Woran ich gerade arbeite
 
-- 🤖 **KI-gestütztes Website-Generator-System** – vollautomatische Erstellung individueller Websites per Prompt
-- 📊 **Lead-Management CRM** – Next.js-basiert, mit Map-Visualisierung & automatisiertem Crawling
-- 🎙️ **Voice Assistant (Jarvis-Projekt)** – LiveKit + Whisper + Piper TTS, komplett self-hosted
-
----
-
-## 💼 Was ich mache
-
-Ich entwickle maßgeschneiderte Web-Lösungen für Agenturen und Startups:
-
-- **White-Label-Entwicklung** – du verkaufst, ich entwickle (anonym im Hintergrund)
-- **Web-Apps & APIs** – von der Konzeption bis zum Deployment
-- **Automatisierung & KI-Integration** – Workflows, die Zeit sparen
-
-📬 **Interesse an einer Zusammenarbeit?** → [robinherbeck.com](https://robinherbeck.com)
+- 🤖 **Website-Generator** auf KI-Basis, der individuelle Seiten aus einem Briefing erstellt
+- 📊 **Lead-Management CRM** in Next.js, mit Karten-Visualisierung und automatisiertem Crawling
+- 🎙️ **Voice Assistant (Jarvis)** komplett self-hosted: LiveKit, Whisper, Piper TTS
 
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEIN_USERNAME&layout=compact&theme=dark&hide_border=true" height="150"/>
+
+**Engpass im Dev-Team oder ein Design das umgesetzt werden will?**
+[robinherbeck.com](https://robinherbeck.com)
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=herbeckrobin&show_icons=true&theme=dark&hide_border=true&count_private=true" height="150"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=herbeckrobin&layout=compact&theme=dark&hide_border=true" height="150"/>
+
 </div>
